@@ -111,7 +111,8 @@ int a,b;
 }
 ```
 # OUTPUT
-![Screenshot (34)](https://github.com/Akshayasakthivels/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/144870561/4e6684f7-effc-41ee-a55c-6ffa88ab1c6d)
+![WhatsApp Image 2024-04-17 at 09 07 52_37feb5d7](https://github.com/Akshayasakthivels/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/144870561/0ad76081-828d-431c-8c1d-9e71b8caab70)
+
 
 # RESULT
  The lexical analyzer is implemented using lex and the output is verified.
